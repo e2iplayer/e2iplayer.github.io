@@ -1,0 +1,18 @@
+<keymap>
+        <map context="IPTVPlayerListActions">
+                <key id="KEY_MENU" mapto="menu" flags="m" />
+                <key id="KEY_INFO" mapto="info" flags="m" />
+                <key id="KEY_HELP" mapto="info" flags="m" />
+                <key id="KEY_PLAY" mapto="play" flags="m" />
+        </map> 
+        <map context="IPTVAlternateVideoPlayer">
+                <key id="KEY_LEFT"  mapto="left_press"   flags="m" />
+                <key id="KEY_LEFT"  mapto="left_repeat"  flags="r" />
+                <key id="KEY_RIGHT" mapto="rigth_press"  flags="m" />
+                <key id="KEY_RIGHT" mapto="rigth_repeat" flags="r" />
+                <key id="KEY_EXIT"  mapto="exit"         flags="m" />
+                <key id="KEY_ESC"   mapto="exit"         flags="m" />
+                <key id="KEY_INFO"  mapto="info"         flags="m" />
+                <key id="KEY_HELP"  mapto="info"         flags="m" />
+        </map> 
+</keymap>

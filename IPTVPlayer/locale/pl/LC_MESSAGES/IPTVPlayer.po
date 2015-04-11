@@ -1,0 +1,1105 @@
+msgid  ""
+msgstr ""
+"Project-Id-Version: IPTVPlayer\n"
+"POT-Creation-Date: 2013-12-15 12:19+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: marcin32 <marcin4192@op.pl>\n"
+"Language-Team: IPTVPlayer\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: ../plugin\n"
+
+msgid  "Watch video materials from IPTV services"
+msgstr "Oglądanie materiałów z serwisów IPTV"
+
+msgid  "Configure IPTV Player"
+msgstr "Konfiguracja IPTV Player"
+
+msgid  "Enter pin"
+msgstr "Wprowadź pin"
+
+msgid  "Pin incorrect!"
+msgstr "Pin niepoprawny!"
+
+msgid  "Exit"
+msgstr "Wyjdź"
+
+msgid  "Player > Recorder"
+msgstr "Odtwarzacz > Rekorder"
+
+msgid  "Recorder > Player"
+msgstr "Rekorder > odtwarzacz"
+
+msgid  "Refresh"
+msgstr "Odśwież listę"
+
+msgid  "More"
+msgstr "Więcej"
+
+msgid  "Loading..."
+msgstr "Pobieranie listy..."
+
+msgid  "Configure host"
+msgstr "Konfiguracja hosta"
+
+msgid  "Info"
+msgstr "Informacje"
+
+msgid  "IPTV download manager"
+msgstr "IPTV download manager"
+
+msgid  "Select option"
+msgstr "Wybór opcji"
+
+msgid  "Autors: samsamsam, zdzislaw22, mamrot, MarcinO, skalita, huball, matzg, tomashj291"
+msgstr "Autorzy samsamsam, zdzislaw22, mamrot, MarcinO, skalita, huball, matzg, tomashj291 informują, że zajmują się wtyczką IPTV Player 'pro publico bono' z nadzieją, ale bez gwarancji jej użyteczności."
+
+msgid  "Operation aborted!"
+msgstr "Operacja została przerwana!"
+
+msgid  "Configuration"
+msgstr "Konfiguracja"
+
+msgid  "Following host are broken or additional python modules are needed."
+msgstr "Poniższe playery są niepoprawne lub brakuje im pewnych modułów."
+
+msgid  "Update"
+msgstr "Aktualizacja"
+
+msgid  "JSON module not available!"
+msgstr "Brak modułu json!"
+
+msgid  "Select service"
+msgstr "Wybierz player"
+
+msgid  "There is no free space on the drive [%s]."
+msgstr "Brak wolnego miejsca w katalogu [%s]."
+
+msgid  "New icons will not be available."
+msgstr "Nowe ikony nie będą ściągane."
+
+msgid  "No valid links available."
+msgstr "Brak poprawnych linków."
+
+msgid  "Select link"
+msgstr "Wybierz pozycję"
+
+msgid  "Format 'wmv' blocked in configuration."
+msgstr "Format 'wmv' zablokowany w ustawieniach!"
+
+msgid  "Unknown protocol [%s]"
+msgstr "Link zablokowany. Nieznany protokół [%s]"
+
+msgid  "File can not be downloaded. Protocol [%s] is unsupported"
+msgstr "Plik nie może być ściągnięty. Nieobsługiwany protokół [%s]"
+
+msgid  "File [%s] was added to downloading queue."
+msgstr "Plik: [%s] został dodany do managera ściągania"
+
+msgid  "Search results"
+msgstr "Wyniki wyszukiwania"
+
+msgid  "..............."
+msgstr "..............."
+
+msgid  "Refreshing"
+msgstr "Odświeżam"
+
+msgid  "Downloading"
+msgstr "Pobieranie"
+
+msgid  "Loading"
+msgstr "Szukam"
+
+msgid  "Search type"
+msgstr "Wybierz typ wyszukiwania"
+
+msgid  "Your search entry"
+msgstr "Wprowadź wzorzec"
+
+msgid  "No item to display. \nPress OK to refresh.\n"
+msgstr "Brak elementów do wyświetlenia.\nNaciśnij OK, aby odświeżyć.\n"
+
+msgid  "Downloading cannot be started.\n Invalid URI[%s]."
+msgstr "Pobieranie nie może zostać rozpoczęte.\n Podany adres ('%s') jest niepoprawny."
+
+msgid  "Downloading cannot be started.\n Downloader [%s] not working properly.\n Status[%s]"
+msgstr "Pobieranie nie może zostać rozpoczęte.\n Downloader %s nie działa prawidłowo.\nStatus[%s]"
+
+msgid  "Downloading file [%s] problem."
+msgstr "Problem przy pobraniu pliku [%s]."
+
+msgid  "Input"
+msgstr "Input"
+
+msgid  "Enter name"
+msgstr "Wprowadź nazwę"
+
+msgid  "Invalid name."
+msgstr "Nieprawidłowa nazwa katalogu."
+
+msgid  "mipsel"
+msgstr "mipsel"
+
+msgid  "sh4"
+msgstr "sh4"
+
+msgid  "i686"
+msgstr "i686"
+
+msgid  "unknown"
+msgstr "nieznana"
+
+msgid  "after closing"
+msgstr "po zamknięciu pluginu"
+
+msgid  "after day"
+msgstr "po dniu"
+
+msgid  "after three days"
+msgstr "po trzech dniach"
+
+msgid  "after a week"
+msgstr "po tygodniu"
+
+msgid  "internal"
+msgstr "wewnętrzny"
+
+msgid  "standard"
+msgstr "systemowy"
+
+msgid  "external eplayer3"
+msgstr "zewętrzny eplayer3"
+
+msgid  "external gstplayer"
+msgstr "zewętrzny gstplayer"
+
+msgid  "no"
+msgstr "nie"
+
+msgid  "yes, to console"
+msgstr "tak, na konsole"
+
+msgid  "yes, to file /hdd/iptv.dbg"
+msgstr "tak, do pliku /hdd/iptv.dbg"
+
+msgid  "with source code"
+msgstr "z kodem źródłowym"
+
+msgid  "precompiled"
+msgstr "pre-kompilowane"
+
+msgid  "all types"
+msgstr "wszystkie"
+
+msgid  "Show all version in the update menu"
+msgstr "Udostępnij wszystkie wersje w menu aktualizacji"
+
+msgid  "Disable host protection (error == GS)"
+msgstr "Wyłączyć ochronę hostów (błąd wywołuje GS)?"
+
+msgid  "Platform"
+msgstr "Platforma"
+
+msgid  "Services configuration"
+msgstr "Konfiguracja hostów"
+
+msgid  "Pin protection for plugin"
+msgstr "Chroń plugin pinem"
+
+msgid  "Pin protection for configuration"
+msgstr "Chroń konfigurację pinem"
+
+msgid  "Set pin code"
+msgstr "Ustaw pin"
+
+msgid  "Skin"
+msgstr "Skin"
+
+msgid  "Display thumbnails"
+msgstr "Ikony na liście"
+
+msgid  "    Remove thumbnails"
+msgstr "    Usuwaj ikony"
+
+msgid  "Graphic services selector"
+msgstr "Graficzna lista player-ów?"
+
+msgid  "    Service icon size"
+msgstr "    Wielkość ikon"
+
+msgid  "    Number of rows"
+msgstr "    Liczba wierszy"
+
+msgid  "    Number of columns"
+msgstr "    Liczba kolumn"
+
+msgid  "Proxy server url"
+msgstr "Adres serwera proxy"
+
+msgid  "Folder for cache data"
+msgstr "Katalog na dane cache"
+
+msgid  "Folder for temp data"
+msgstr "Katalog na chwilowe dane (temp)"
+
+msgid  "[HTTP] buffering"
+msgstr "Buforuj z linków http"
+
+msgid  "[HLS/M3U8] buffering"
+msgstr "Buforuj z linków m3u8?"
+
+msgid  "[RTMP] buffering (rtmpdump required)"
+msgstr "Buforuj z linków rtmp? (wymaga rtmpdump)"
+
+msgid  "    Buffer size [MB]"
+msgstr "    Rozmiar bufora w MB"
+
+msgid  "Buffer path"
+msgstr "Ścieżka dla buforowania"
+
+msgid  "Records path"
+msgstr "Ścieżka dla nagrań"
+
+msgid  "Start download manager per default"
+msgstr "Manager ściągania domyśnie uruchomiony"
+
+msgid  "Show download manager after adding new item"
+msgstr "Pokazać managera ściągania po dodaniu pliku"
+
+msgid  "Number of downloaded files simultaneously"
+msgstr "Ilość ściąganych plików jednocześnie"
+
+msgid  "login"
+msgstr "login"
+
+msgid  "password"
+msgstr "hasło"
+
+msgid  "First move player in buffering mode"
+msgstr "Domyślny odtwarzacz z buforowaniem"
+
+msgid  "Second move player in buffering mode"
+msgstr "Alternatywny odtwarzacz z buforowaniem"
+
+msgid  "Movie player without buffering mode"
+msgstr "Odtwarzacz bez buforowania"
+
+msgid  "Movie player"
+msgstr "Odtwarzacza video"
+
+msgid  "Block wmv files"
+msgstr "Blokuj pliki wmv"
+
+msgid  "Show IPTVPlayer in extension list"
+msgstr "Wyświetlać wtyczkę na liście rozszerzeń"
+
+msgid  "Show IPTVPlayer in main menu"
+msgstr "Wyświetlać wtyczkę w głównym menu"
+
+msgid  "Show update icon in service selection menu"
+msgstr "Wyświetlać aktualizację w głównym menu"
+
+msgid  "Debug logs"
+msgstr "Włączyć DEBUG"
+
+msgid  "Allow downgrade"
+msgstr "Pozwól na obiżenie wersji przy aktualizacji"
+
+msgid  "Update packet type"
+msgstr "Typ paczek dostępnych przy aktualizacji"
+
+msgid  "Enter old pin"
+msgstr "Wprowadź stary pin"
+
+msgid  "Enter new pin"
+msgstr "Wprowadź nowy pin"
+
+msgid  "Confirm new pin"
+msgstr "Potwierdź nowy pin"
+
+msgid  "Pin has been changed."
+msgstr "Pin został zmieniony."
+
+msgid  "Confirmation error."
+msgstr "Błąd potwierdzenia."
+
+msgid  "Configuration for service[%s]"
+msgstr "Konfiguracja ustawień dla playera [%s]"
+
+msgid  "[%s] - configuration"
+msgstr "[%s] - ustawienia"
+
+msgid  "IPTVPlayer services configuration"
+msgstr "IPTVPlayer ustawienia hostów"
+
+msgid  "Service [%s] has no additional settings."
+msgstr "Host %s nie ma dodatkowych ustawień."
+
+msgid  "PENDING"
+msgstr "OCZEKUJĄCY"
+
+msgid  "DOWNLOADING"
+msgstr "POBIERANY"
+
+msgid  "DOWNLOADED"
+msgstr "POBRANY"
+
+msgid  "ABORTED"
+msgstr "PRZERWANY"
+
+msgid  "DOWNLOAD ERROR"
+msgstr "BŁĄD POBIERANIA"
+
+msgid  "Stop"
+msgstr "Zatrzymaj"
+
+msgid  "Start"
+msgstr "Uruchom"
+
+msgid  "STARTED"
+msgstr "URUCHOMIONY"
+
+msgid  "STOPPED"
+msgstr "ZATRZYMANY"
+
+msgid  "Manager status: "
+msgstr "Status managera: "
+
+msgid  "Play with [%s] player"
+msgstr "Odtwórz nagranie w [%s]"
+
+msgid  "Play file"
+msgstr "Odtwórz nagranie"
+
+msgid  "Continue downloading"
+msgstr "Kontynuuj ściąganie"
+
+msgid  "Download again"
+msgstr "Ściągnij ponownie"
+
+msgid  "Stop downloading"
+msgstr "Zatrzymaj ściąganie"
+
+msgid  "Remove file"
+msgstr "Usuń plik"
+
+msgid  "Remove item"
+msgstr "Usuń pozycje"
+
+msgid  "Promote item"
+msgstr "Przesuń na szczyt kolejki"
+
+msgid  "Select action"
+msgstr "Wybierz akcję"
+
+msgid  "> Press OK to start <"
+msgstr "> Naciśnij OK, aby rozpocząć <"
+
+msgid  "No steps to execute."
+msgstr "Brak kroków do wykonania."
+
+msgid  "Step [%s] cannot be aborted. Please wait."
+msgstr "Krok [%s] nie może zostać przerwany. Proszę czekać."
+
+msgid  "During processing, please wait."
+msgstr "W trakcie przetwarzania proszę czekać."
+
+msgid  "During processing, please do not interrupt."
+msgstr "W trakcie przetwarzania proszę nie przerywać."
+
+msgid  "Aborted"
+msgstr "Anulowany"
+
+msgid  "The problem with creating a directory [%s]."
+msgstr "Problem z utworzeniem katalogu [%s]."
+
+msgid  "Problem with the directory [%s]."
+msgstr "Problem z katalogiem [%s]."
+
+msgid  "There is no space in the directory [%s]\n Available[%s], required [%s]."
+msgstr "Brak wolnego miejsca w katalogu [%s]\nDostępne[%s], wymagane[%s]."
+
+msgid  "IPTVPlayer - update"
+msgstr "IPTVPlayer - aktualizacja"
+
+msgid  "Wrong version. \n downloaded version [%s] is different from the requested [%s]."
+msgstr "Błędna wersja.\nPobrana wersja[%s] jest różna od żądanej[%s]." 
+
+msgid  "File [%s] reading failed."
+msgstr "Problem z odczytem pliku [%s]."
+
+msgid  "Please remember that you use the IPTVPlayer plugin at your own risk."
+msgstr "Autorzy NIE ponoszą, żadnej odpowiedzialności za uszkodzenia tunera spowodowane działaniem tej wtyczki oraz wykorzystywaniem jej w celu nielegalnego pobierania materiałów wideo!"
+
+msgid  "Restart GUI failed. \nPlease restart STB manually."
+msgstr "Wystąpił problem przy próbie restartowania systemu.\nProszę ponownie uruchomić dekoder."
+
+msgid  "E2 GUI restart after IPTVPlayer update to version[%s].\n\n"
+msgstr "Restart systemu po aktualizacji wtyczki do wersji %s...\n Czytałeś już licencję?\nJeśli tak, to wiesz, że\n\n"
+
+msgid  "Currently you have version [%s]."
+msgstr "Obecnie posiadasz wersję [%s]."
+
+msgid  "Update completed successfully. For the moment, the system will reboot."
+msgstr "Aktualizacja zakończona pomyślnie. Za chwilę nastąpi restart systemu."
+
+msgid  "Update failed.\nCheck the status by selecting interesting and pressing OK."
+msgstr "Aktualizacja nie powiodła się.\nSprawdź statusy wybierając interesujący i naciskając OK."
+
+msgid  "Obtaining server list."
+msgstr "Pobieranie listy serwerów."
+
+msgid  "Downloading an update packet."
+msgstr "Pobieranie archiwum."
+
+msgid  "Extracting an update packet."
+msgstr "Rozpakowywanie archiwum."
+
+msgid  "Executing user scripts."
+msgstr "Wykonywanie skryptów użytkownika."
+
+msgid  "Checking version."
+msgstr "Sprawdzanie wersji."
+
+msgid  "Confirmation of installation."
+msgstr "Potwierdzenie instalacji."
+
+msgid  "Removing the old version."
+msgstr "Usuwanie starej wersji."
+
+msgid  "Installing new version."
+msgstr "Instalowanie nowej wersji."
+
+msgid  "Pending"
+msgstr "Oczekujący"
+
+msgid  "No user scripts."
+msgstr "Brak skryptów użytkownika."
+
+msgid  "Problem with user script execution [%s]."
+msgstr "Problem z wykonaniem skryptu [%s]."
+
+msgid  "Completed.\n"
+msgstr "Zakończono.\n"
+
+msgid  "Version [%s] is ready for installation. After installation, restart of the system will be done.\nDo you want to continue?"
+msgstr "Wersja [%s] jest gotowa do instalacji. Po instalacji nastąpi restart systemu.\nCzy na pewno chcesz kontynuować?"
+
+msgid  "Installation has been confirmed."
+msgstr "Instalacja została potwierdzona."
+
+msgid  "Installation has been aborted."
+msgstr "Instalacja została anulowana."
+
+msgid  "Problem with downloading the server list from [%s]."
+msgstr "Problem z pobraniem listy serwerów z [%s]."
+
+msgid  "Problem with downloading the server list."
+msgstr "Problem z parsowaniem listy serwerów."
+
+msgid  "Select update server"
+msgstr "Wybierz serwer"
+
+msgid  "There is no update for the current configuration."
+msgstr "Brak aktualizacji dla bieżącej konfiguracji."
+
+msgid  "Update not available."
+msgstr "Aktualizacja niedostępna."
+
+msgid  "Selected version [%s]."
+msgstr "Wybrano wersję [%s]."
+
+msgid  "Update server not selected."
+msgstr "Serwer nie został wybrany."
+
+msgid  "Problem with downloading the update packet:\n[%s]."
+msgstr "Problem z pobraniem archiwum [%s]."
+
+msgid  "Update packet was downloaded successfully."
+msgstr "Archiwum zostało pobrane pomyślnie."
+
+msgid  "Problem with extracting the archive. Return code [%d]\n%s."
+msgstr "Problem przy rozpakowywaniu archiwum. Code[%d]\n%s."
+
+msgid  "Unpacking the archive completed successfully."
+msgstr "Rozpakowanie archiwum zakończone pomyślnie."
+
+msgid  "Completed."
+msgstr "Zakończono."
+
+msgid  "Problem with the removal of the previous version.\nStatus[%d], outData[%s]."
+msgstr "Problem z usunięciem poprzedniej wersji.\nStatus[%d], outData[%s]."
+
+msgid  "Problem with installing the new version.\nStatus[%d], outData[%s]"
+msgstr "Problem z instalacją nowej wersji.\nStatus[%d], outData[%s]"
+
+msgid  "Next page"
+msgstr "Następna strona"
+
+msgid  "Video"
+msgstr "Materiały wideo"
+
+msgid  "Channel"
+msgstr "Kanał"
+
+msgid  "Playlist"
+msgstr "Playlista"
+
+msgid  "Movie"
+msgstr "Film"
+
+msgid  "Live"
+msgstr "Transmisja na żywo"
+
+msgid  "Search"
+msgstr "Wyszukaj"
+
+msgid  "Search history"
+msgstr "Historia wyszukiwania"
+
+msgid  "User links"
+msgstr "Linki użytkownika"
+
+msgid  "User links stored in the ytlist.txt file."
+msgstr "Linki użytkownika zapisane w pliku ytlist.txt."
+
+msgid  "History of searched phrases."
+msgstr "Historia wyszukiwanych fraz"
+
+msgid  "Search youtube materials"
+msgstr "Wyszukaj materiały youtube"
+
+msgid  "Sort by:"
+msgstr "Sortuj wyniki wyszukiwania według:"
+
+msgid  "Path to ytlist.txt, urllist.txt"
+msgstr "Pliki tekstowe ytlist i urllist znajdują się w:"
+
+msgid  "Video format:"
+msgstr "Preferowany typ video:"
+
+msgid  "Default video quality:"
+msgstr "Domyślny format video:"
+
+msgid  "Use default video quality:"
+msgstr "Używaj domyślnego format video:"
+
+msgid  "the worst"
+msgstr "najgorsza"
+
+msgid  "the best"
+msgstr "najlepsza"
+
+msgid  "Relevance"
+msgstr "Trafność"
+
+msgid  "Upload date"
+msgstr "Data przesłania"
+
+msgid  "View count"
+msgstr "Wyświetlenia"
+
+msgid  "Rating"
+msgstr "Ocena"
+
+msgid  "--All--"
+msgstr "--Wszystkie--"
+
+msgid  "--Other--"
+msgstr "--Pozostałe--"
+
+msgid  "Polish proxy server url"
+msgstr "Adres polskiego serwera proxy"
+
+msgid  "German proxy server url"
+msgstr "Adres niemieckiego serwera proxy"
+
+#####################
+#new 
+#####################
+msgid  "Save"
+msgstr "Zapisz"
+
+msgid  "Cancel"
+msgstr "Anuluj"
+
+msgid  "New dir"
+msgstr "Nowy folder"
+
+msgid  "Apply"
+msgstr "Zastosuj"
+
+msgid  "Use German proxy for link request"
+msgstr "Użyj niemieckiego proxy prosząc o link do video"
+
+msgid  "Sort search result by"
+msgstr "Sortuj wyniki wyszukiwania według"
+
+msgid  "Alphabetically"
+msgstr "Alfabetycznie"
+
+
+############################################################
+#                   grooveshark.com translation
+############################################################
+msgid  "Songs"
+msgstr "Piosenki"
+
+msgid  "Playlists"
+msgstr "Playlisty"
+
+msgid  "Albums"
+msgstr "Albumy"
+
+msgid  "Sin in to"
+msgstr "Zaloguj do"
+
+msgid  "    Username or Email"
+msgstr "    Login lub email"
+
+msgid  "    Password"
+msgstr "    Hasło"
+
+msgid  "User [%s] logon failure."
+msgstr "Problem z zalogowaniem użytkownika [%s]."
+
+msgid  "Last error"
+msgstr "Ostatni błąd"
+
+msgid  "Unknown"
+msgstr "Nieznany"
+
+msgid  "PC"
+msgstr "PC"
+
+msgid  "mobile"
+msgstr "mobile"
+
+msgid  "Type: "
+msgstr "Typ: "
+
+msgid  "Popular"
+msgstr "Popularne"
+
+msgid  "Daily"
+msgstr "Dzisiaj"
+
+msgid  "Weekly"
+msgstr "Tydzień"
+
+msgid  "Monthly"
+msgstr "Miesiąc"
+
+msgid  "Broadcasts"
+msgstr "Transmisje"
+
+msgid  "Stations"
+msgstr "Stacje"
+
+msgid  "Profile"
+msgstr "Profil"
+
+msgid  "Collection"
+msgstr "Kolekcja"
+
+msgid  "Favorites"
+msgstr "Ulubione"
+
+msgid  "Following"
+msgstr "Obserwowani użytkownicy"
+
+msgid  " - mobile broadcast url"
+msgstr " - link dla urządzeń mobilnych"
+
+msgid  "Now playing"
+msgstr "Teraz odtwarzane"
+
+msgid  "History"
+msgstr "Historia"
+
+msgid  "    Video buffer size [MB]"
+msgstr "    Rozmiar bufora wideo w MB"
+
+msgid  "    Audio buffer size [KB]"
+msgstr "    Rozmiar bufora audio w KB"
+
+msgid  "Country (changing may be illegal in your country)"
+msgstr "Kraj (zmiana tej opcji może być nielegalne w Twoim kraju)"
+
+msgid  "based on IP"
+msgstr "na podstawie IP"
+
+msgid  "Number of songs fetched at once for the station"
+msgstr "Liczba utworów pobieranych dla stacji"
+
+msgid  "Device ID"
+msgstr "ID urządzenia"
+
+msgid  "Games"
+msgstr "Gry"
+
+msgid  "Channels"
+msgstr "Kanały"
+
+msgid  "Videos"
+msgstr "Filmy"
+
+msgid  "Live Channels"
+msgstr "Kanały na żywo"
+
+msgid  "Top"
+msgstr "Najlepsze"
+
+msgid  "Random"
+msgstr "Losowe"
+
+msgid  "Polish channles"
+msgstr "Kanały w języku: Polski"
+
+msgid  "German channles"
+msgstr "Kanały w języku: Niemieckim"
+
+msgid  "Week"
+msgstr "Tydzień"
+
+msgid  "Month"
+msgstr "Miesiąc"
+
+msgid  "%s viewers, %s channels"
+msgstr "%s widzów, %s kanałów"
+
+msgid  " (chunk %s)"
+msgstr " (część %s)"
+
+msgid "Promoted channels"
+msgstr "Promowane kanały"
+
+msgid "Promoted games"
+msgstr "Promowane gry"
+
+msgid  "Enable reordering mode"
+msgstr "Włącz tryb przenoszenia"
+
+msgid  "Disable reordering mode"
+msgstr "Wyłącz tryb przenoszenia"
+
+msgid "Icons size"
+msgstr "Jakość ikon"
+
+msgid  "Prefered format"
+msgstr "Preferowany format"
+
+msgid  "Prefered quality"
+msgstr "Preferowana jakość"
+
+msgid  "More important"
+msgstr "Co ważniejsze"
+
+msgid  "One link mode"
+msgstr "Włącz tryb jednego linka"
+
+msgid  "large"
+msgstr "duża"
+
+msgid  "medium"
+msgstr "średnia"
+
+msgid  "small"
+msgstr "mała"
+
+msgid  "low"
+msgstr "niska"
+
+msgid  "high"
+msgstr "wysoka"
+
+msgid  "very high"
+msgstr "bardzo wysoka"
+
+msgid  "hd"
+msgstr "hd"
+
+msgid  "quality"
+msgstr "jakość"
+
+msgid  "format"
+msgstr "format"
+
+################################
+
+msgid  "Categories"
+msgstr "Kategorie"
+
+msgid  "%s items in category"
+msgstr "%s elementów w kategorii"
+
+msgid  "Featured"
+msgstr "Polecane"
+
+msgid  "Recent"
+msgstr "Najnowsze"
+
+msgid  "Most Popular"
+msgstr "Najpopularniejsze"
+
+msgid  "News"
+msgstr "Aktualności"
+
+msgid  "Topics"
+msgstr "Tematycznie"
+
+msgid  "Missed the show?"
+msgstr "Przegapiłeś?"
+
+msgid  "Program A-Z"
+msgstr "Programy A-Z"
+
+msgid  "Home page"
+msgstr "Strona główna"
+
+msgid  "All programs in the Live Stream"
+msgstr "Wszystkie programy na żywo"
+
+msgid  "It seems that the host \"%s\" has crashed. Do you want to report this problem?"
+msgstr "Wygląda na to, że host \"%s\" uległ awarii. Czy chesz poinformować o tym autorów?"
+
+msgid  "\nMake sure you are using the latest version of the plugin."
+msgstr "\nUpewnij się, że używasz najnowszej wersji pluginu."
+
+
+# weeb.tv main menu
+msgid  "Sorted channels A-Z [live]"
+msgstr "Kanały alfabetycznie A-Z [na żywo]"
+
+msgid  "Sorted most viewed channels now [live]"
+msgstr "Kanały najczęściej wyświetlane teraz [na żywo]"
+
+msgid  "Sorted most viewed channels general [live]"
+msgstr "Kanały najczęściej wyświetlane ogólnie [na żywo]"
+
+msgid  "Offline channels"
+msgstr "Kanały nie nadawane"
+
+msgid  "Show all channels"
+msgstr "Pokaż wszystkie kanały"
+
+# weeb.tv general settings
+msgid  "Username:"
+msgstr "Użytkownik:"
+
+msgid  "Password:"
+msgstr "Hasło:"
+
+msgid  "Preferred video quality:"
+msgstr "Preferowana jakość obrazu wideo:"
+
+msgid  "Low"
+msgstr "Niska"
+
+msgid  "Standard"
+msgstr "Standardowa"
+
+msgid  "High (or HD)"
+msgstr "Wysoka (lub HD)"
+
+# weeb.tv errors & messages 
+msgid  "You do not have a premium account. Starting a sponsored broadcast."
+msgstr "Nie posiadasz konta premium. Rozpoczynanie transmisji sponsorowanej."
+
+################################
+# setup initializer
+################################
+msgid  "Information"
+msgstr "Informacja"
+
+msgid  "IPTVPlayer need some additional setup.\nSuch as downloading and installation additional binaries.\nPress OK to start."
+msgstr "IPTVPlayer wymaga dodatkowych działań takich jak pobranie i instalacja dodatkowych modułów binarnych.\nNaciśnij OK, aby rozpocząć."
+
+msgid  "Skipping IPTVPlayer setup may cause problems.\nAre you sure to skip IPTVPlayer setup?"
+msgstr "Pominięcie instalacji może spowodować nieprawidłowe pluginu.\nJesteś pewien, że chcesz pominąć dodatkową instalację?"
+
+msgid  "recommended"
+msgstr "zalecane"
+
+msgid  "Do not install (not recommended)"
+msgstr "Nie instaluj (niezalecane)"
+
+msgid  "Detection of the platform."
+msgstr "Wykrywanie platformy."
+
+msgid  "Plugin can be run on one of the following platforms: sh4, mipsel, i686."
+msgstr "IPTVPlayer wspiera następujące platform: sh4, mipsel, i686"
+
+msgid  "Fatal Error!\nPlugin is not supported with your platform."
+msgstr "Błąd krytyczny.\nPlugin nie jest kompatybilny z Twoją platformą."
+
+msgid  "Detection of the OpenSSL version."
+msgstr "Wykrywanie wersji biblioteki OpenSSL."
+
+msgid  "OpenSSL lib is needed by wget and rtmpdump utilities."
+msgstr "Biblioteka OpenSSL jest wymagana do poprawnego działania narzędzi wget i rtmpdump."
+
+msgid  "Fatal Error!\nOpenssl could not be found. Please install it and retry."
+msgstr "Błąd krytyczny.\nBiblioteka Openssl nie została odnaleziona. Proszę zainstalować bibliotekę OpenSSL i ponowić próbę."
+
+msgid  "Install into the \"%s\"."
+msgstr "Zainstaluj do \"%s\"."
+
+msgid  "Detection of the gstreamer version."
+msgstr "Wykrywanie wersji gstreamer'a."
+
+msgid  "The \"%s\" utility is used by the IPTVPlayer to buffering and downloading [%s] links."
+msgstr "Narzędzie \"%s\" wykorzystywane jest przez IPTVPlayer do pobierania i ściągania materiałów z linków [%s]."
+
+msgid  "The \"%s\" utility is used by the IPTVPlayer as external movie player."
+msgstr "Narzędzie \"%s\" wykorzystywane jest przez IPTVPlayer jako zewnętrzny odtwarzacz wideo."
+
+################################
+# setup helper
+################################
+msgid  "Detection of the \"%s\" utility."
+msgstr "Wykrywanie narzędzia \"%s\"."
+
+msgid  "The \"%s\" utility is used by IPTVPlayer."
+msgstr "Narzędzie \"%s\" wykorzystywane jest niezbędne do poprawnej pracy IPTVPlayer."
+
+msgid  "Downloading \"%s\"."
+msgstr "Pobieranie \"%s\"."
+
+msgid  "Downloading \"%s\" failed. \nDo you want to retry?"
+msgstr "Pobieranie \"%s\" zokończone niepowodzeniem. \nCzy chesz ponowić próbę?"
+
+msgid  "Utility \"%s\" has not been detected. \nWhat do you want to do?"
+msgstr "Narzędzie \"%s\" nie zostało wykryte. \nCo chesz zrobić?"
+
+msgid  "Utility \"%s\" has not been detected. \nDo you want to install it?"
+msgstr "Narzędzie \"%s\" nie zostało wykryte. \nCzy chesz je zainstalować?"
+
+msgid  "Utility \"%s\" is deprecated. \nWhat do you want to do?"
+msgstr "Narzędzie \"%s\" jest przestarzałe. \nCo chesz zrobić?"
+
+msgid  "Utility \"%s\" is deprecated. \nDo you want to install new one?"
+msgstr "Narzędzie \"%s\" jest przestarzałe. \nCo chesz zrobić?"
+
+msgid  "Installing \"%s\"."
+msgstr "Instalowanie \"%s\"."
+
+msgid "Auto check for plugin update"
+msgstr "Automatyczne sprawdzanie dostępności aktualizacji"
+
+msgid  "There is a new version available do you want to update? \nYour version [%s], latest version on server [%s]"
+msgstr "Dostępna jest nowa wersja pluginu. \nTwoja wersja [%s], najnowsza wersja na serwerze [%s]. \nCzy chcesz zakutalizować?"
+
+
+################################
+
+msgid  "Change active movie player"
+msgstr "Zmień aktywny odtwarzacz"
+
+msgid  "Set active movie player"
+msgstr "Ustaw aktywny odtwarzacz"
+
+msgid  "[%s] with buffering"
+msgstr "[%s] z buforowaniem"
+
+msgid  "[%s] without buffering"
+msgstr "[%s] bez buforowania"
+
+msgid  "Select movie player"
+msgstr "Wybierz odtwarzacz"
+
+msgid  "Auto selection based on the settings"
+msgstr "Wybór automatyczny bazując na ustawieniach"
+
+
+###############################
+#        Favourites
+###############################
+msgid "Favourites manager"
+msgstr "Manager ulubionych"
+
+msgid "Add item to favourites"
+msgstr "Dodaj do ulubionych"
+
+msgid "Edit favourites"
+msgstr "Edytuj ulubione"
+
+msgid "Add new group of favourites"
+msgstr "Dodaj nową grupę ulubionych"
+
+msgid "Name:"
+msgstr "Nazwa:"
+
+msgid "Group %d"
+msgstr "Grupa %d"
+
+msgid "Description:"
+msgstr "Opis:"
+
+msgid "Name cannot be empty."
+msgstr "Nazwa niemoże być pusta."
+
+msgid "Name is not valid.\nPlease remove special characters."
+msgstr "Nazwa jest nieprawidłowa.\nProszę usunąć znaki specjalne."
+
+msgid "Group \"%s\" already exists."
+msgstr "Grupa \"%s\" już istnieje."
+
+msgid "Select favourite group"
+msgstr "Wybierz grupę ulubionych"
+
+msgid "There is no favourites groups."
+msgstr "Brak grup ulubionych."
+
+msgid "Favourites groups"
+msgstr "Grupy ulubionych"
+
+msgid "Remove group"
+msgstr "Usuń"
+
+msgid "Move group"
+msgstr "Przesuń"
+
+msgid "Add new group"
+msgstr "Dodaj nową"
+
+msgid "Items in group \"%s\""
+msgstr "Elementy w grupie \"%s\""
+
+msgid "Move item"
+msgstr "Przesuń"
+
+msgid "Add item to group"
+msgstr "Dodaj do innej grupy"
+
+msgid "Wrong indexes."
+msgstr "Błędne indeksy."
+
+msgid "The same item already exists in this group."
+msgstr "Ten element istnieje już w tej grupie."
+
+msgid "Item idx[%d] not found in group[%s]."
+msgstr "Element [%d] nie został odnaleziony w grupie [%s]."
+
+msgid "Group with id[%s] not found."
+msgstr "Grupa o identyfikatorze [%s] nie została odnaleziona."
+
+msgid "Error reading file \"%s\".\n"
+msgstr "Błąd podczas wczytywania pliku \"%s\".\n"
+
+msgid "Error deleting file \"%s\".\n"
+msgstr "Błąd podczas usuwania pliku \"%s\".\n"
+
+msgid "Error writing file \"%s\".\n"
+msgstr "Błąd podczas zapisywania pliku \"%s\".\n"
+
+msgid "Favourites"
+msgstr "Ulubione"
+
